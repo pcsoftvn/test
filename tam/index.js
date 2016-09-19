@@ -1,4 +1,5 @@
 new function()
 {
+	//New line
 }
 
